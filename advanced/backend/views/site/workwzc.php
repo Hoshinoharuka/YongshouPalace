@@ -270,8 +270,8 @@ $this->params['breadcrumbs'][] = $this->title;
                                                             </div>
                                                             <div class="col-xl">
                                                                 <div class="text-muted">
-                                                                    <p class="mb-2">Hi I'm Phyllis Gatlin, Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages</p>
-                                                                    <p class="mb-0">It is a long established fact that a reader will be distracted by the readable content of a page when looking at it has a more-or-less normal distribution of letters</p>
+                                                                    <p class="mb-2">https://pan.baidu.com/s/1gBrgtrACtptxACflo2sj9A</p>
+                                                                    <p class="mb-0">提取码：zdbm </p>
                                                                 </div>
                                                             </div>
                                                         </div>
